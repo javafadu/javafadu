@@ -2,7 +2,7 @@
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
 <h3 align="center"> After a 15 years Aviation (Airlines and Airport) experience, now a passionate Full Stack Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarali&label=Profile%20views&color=0e75b6&style=flat" alt="mankarali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
 - 🔭 I’m currently working on **Backend Developer on Java**
 
