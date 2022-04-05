@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Developer on Java**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **Java Projects**
 
 - 💬 Ask me about **Java, PHP, MySQL, HTML / CSS, Microsoft Office (Excel, Word, Powerpoint)**
 
