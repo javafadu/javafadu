@@ -2,7 +2,7 @@
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
 <h3 align="center"> After a 15 years Aviation (Airlines and Airport) experience, now a passionate Full Stack Developer </h3>
 <table>
-  <tr><td>
+  <tr><td  valign="top">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
 - 🔭 I’m currently working on **Backend Developer on Java**
@@ -25,12 +25,11 @@
 
 </p>
     </td>
-    <td valign="top">
+    <td>
       
 <font color="Red">
   
-- [x] **Java (Basic)** 
-- *27.04.2022*
+- [x] **Java (Basic)**  27.04.2022*
 - [ ] **Lambda**
 - [ ] **JavaScript**
 - [ ] **MySQL**
