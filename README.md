@@ -31,7 +31,7 @@
 <font color="Red">
   
 - [x] **Java (Basic)**  27.04.2022*
-- [ ] **Lambda**
+- [x] **Lambda** 06.05.2022*
 - [ ] **JavaScript**
 - [ ] **MySQL**
 - [ ] **JDBC**
