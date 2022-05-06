@@ -32,7 +32,7 @@
 </a>
    
 
-  <td>
+  <td valign="top">
 <font color="Red">
   
 - [x] **Java (Basic)** 
