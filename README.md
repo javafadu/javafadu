@@ -30,10 +30,10 @@
       
 <font color="Red">
   
-- [x] **Java (Basic)** 27.04.2022*
-- [x] **Lambda** 06.05.2022*
-- [ ] **JavaScript**
-- [ ] **MySQL**
+- [x] **Java (Basic)** 
+- [x] **Lambda**
+- [x] **JavaScript**
+- [x] **MySQL**
 - [ ] **JDBC**
 - [ ] **Hibernate**
 - [ ] **J-Unit**
@@ -48,11 +48,11 @@
   - [ ] *Debug*
   - [ ] *Thread*
 - [ ] **Back-End Project**
-- [ ] **Html-Css**
-- [ ] **BootStap**
-- [ ] **JS**
+- [x] **Html-Css**
+- [x] **BootStap**
+- [x] **JS**
 - [ ] **React** 
-- [ ] **Front-End Project** </font>
+- [x] **Front-End Project** </font>
     </td>
   </tr>
   </table>
