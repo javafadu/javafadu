@@ -66,7 +66,10 @@
   <tr>
     <td colspan="2">
     
-    <details>
+    
+      ---
+
+<details>
 <summary>
 Languages and Tools🛠:
 </summary>
@@ -93,6 +96,10 @@ Languages and Tools🛠:
 <code><img height="20" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
 <code><img height="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
 </details>
+
+---
+      
+      
     </td> </tr>
   </table>
 
