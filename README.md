@@ -25,7 +25,7 @@
     
     </td> 
 
-    </td>
+  <td>
 <font color="Red">
   
 - [x] **Java (Basic)** 
