@@ -24,11 +24,11 @@
 </p>
   
    <a href="https://github.com/javafadu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight">
   </a>
     
     <a href="https://github.com/javafadu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" alt="Java Fadu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" alt="Java Fadu's github stats">
 </a>
    
 
