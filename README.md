@@ -24,9 +24,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=javafadu&count_private=true"  align="left">
 
-  <a href="https://github.com/javafadu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight" />
-  </a>
+
   
 </p>
     
