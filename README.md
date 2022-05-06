@@ -23,13 +23,9 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feridun-ozcelik-52295b41)
 
   <img src="https://github-readme-stats.vercel.app/api?username=javafadu&count_private=true"  align="left">
-
-
-  
 </p>
     
-    </td>
-    <td>
+ 
       
 <font color="Red">
   
