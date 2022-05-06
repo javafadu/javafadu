@@ -60,6 +60,9 @@
 - [x] **Front-End Project** </font>
     </td>
   </tr>
+  
+  </table>
+  <table>
   <tr>
     <td colspan="2">
     
