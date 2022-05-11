@@ -97,7 +97,7 @@ Languages and Tools🛠:
 
 ---
       
-      
+      ![snake gif](https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif)
    
   
 
