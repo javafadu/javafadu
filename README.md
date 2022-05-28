@@ -48,7 +48,7 @@
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
 - [ ] **Advanced Java**
-  - [ ] *Enum*
+  - [x] *Enum*
   - [ ] *Generic*
   - [ ] *Debug*
   - [ ] *Thread*
