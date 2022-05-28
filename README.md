@@ -39,8 +39,8 @@
 - [x] **Lambda**
 - [x] **JavaScript**
 - [x] **MySQL**
-- [ ] **JDBC**
-- [ ] **Hibernate**
+- [x] **JDBC**
+- [x] **Hibernate**
 - [ ] **J-Unit**
 - [ ] **MongoDB**
 - [ ] **API**
