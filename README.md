@@ -30,6 +30,7 @@
     
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="70%">
     
+    [![snake gif](https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif)
 
    
 
@@ -99,7 +100,7 @@ Languages and Tools🛠:
 
 ---
       
-[![snake gif](https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif)
+
    
   
 
