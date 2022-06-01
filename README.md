@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
-<h3 align="center"> After a 15 years Aviation (Airlines and Airport) experience, now a passionate Full Stack Developer </h3>
+<h3 align="center"> After a 15 years Aviation (Airlines and Airport) experience, now a passionate Full Stack (Java) Developer </h3>
 <table>
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **Java, PHP, MySQL, HTML / CSS, Microsoft Office (Excel, Word, Powerpoint)**
+- 💬 Ask me about **Java, Hibernate, MySQL, PHP, HTML / CSS, Microsoft Office (Excel, Word, Powerpoint)**
 
 - 📫 How to reach me **javafadu@gmail.com**
 
