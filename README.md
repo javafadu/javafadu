@@ -43,7 +43,7 @@
 - [x] **MySQL**
 - [x] **JDBC**
 - [x] **Hibernate**
-- [ ] **J-Unit**
+- [x] **J-Unit**
 - [ ] **MongoDB**
 - [ ] **API**
 - [ ] **SpringMVC**
