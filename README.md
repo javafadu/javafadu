@@ -26,7 +26,7 @@
    <a href="https://github.com/javafadu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight" width="70%">
   </a>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javafadu&show_icons=true&locale=en&layout=compact" alt="javafadu" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&hide=javascript,css,scss,html&theme=tokyonight)
     
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="70%">
       
