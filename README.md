@@ -26,7 +26,8 @@
    <a href="https://github.com/javafadu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight" width="70%">
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu)](https://github.com/javafadu/github-readme-stats)
+
+
 
     
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="70%">
@@ -110,5 +111,5 @@ Languages and Tools🛠:
       
 
    
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&layout=compact)](https://github.com/javafadu/github-readme-stats)
 
