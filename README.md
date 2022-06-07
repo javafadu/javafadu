@@ -48,7 +48,7 @@
 - [x] **JDBC**
 - [x] **Hibernate**
 - [x] **J-Unit**
-- [ ] **MongoDB**
+- [x] **MongoDB**
 - [ ] **API**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
