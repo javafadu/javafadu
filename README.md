@@ -50,12 +50,12 @@
 - [x] **J-Unit**
 - [x] **MongoDB**
 - [x] **API**
-- [ ] **SpringMVC**
-- [ ] **SpringBoot**
-- [ ] **SpringSecurity**
+- [x] **SpringMVC**
+- [x] **SpringBoot**
+- [x] **SpringSecurity**
 - [ ] **Advanced Java**
   - [x] *Enum*
-  - [ ] *Generic*
+  - [x] *Generic*
   - [ ] *Debug*
   - [ ] *Thread*
 - [ ] **Back-End Project**
