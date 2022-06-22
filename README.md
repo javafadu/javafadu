@@ -53,7 +53,7 @@
 - [x] **SpringMVC**
 - [x] **SpringBoot**
 - [x] **SpringSecurity**
-- [ ] **Advanced Java**
+- [x] **Advanced Java**
   - [x] *Enum*
   - [x] *Generic*
   - [ ] *Debug*
