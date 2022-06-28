@@ -57,7 +57,7 @@
   - [x] *Enum*
   - [x] *Generic*
   - [ ] *Debug*
-  - [ ] *Thread*
+  - [x] *Thread*
 - [ ] **Back-End Project**
 - [x] **Html-Css**
 - [x] **BootStap**
