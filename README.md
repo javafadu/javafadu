@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
-<h3 align="center"> After a 15 years Aviation (Airlines and Airport) experience, now a passionate Full Stack (Java) Developer </h3>
+<h3 align="center"> As a software developer, I worked on back-end and front-end development in various projects.  </h3>
 <table>
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Frontend Developer on Java**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 The **team environment** is the place that makes the greatest **contribution** to the development and sharing of experience.
 
 - 💬 Ask me about **Java, Hibernate, MySQL, PHP, HTML / CSS, Microsoft Office (Excel, Word, Powerpoint)**
 
 - 📫 How to reach me **javafadu@gmail.com**
 
-- ⚡ Fun fact **I like algorithms and software methods that take a long time to solve.**
+- ⚡ I am open to work in a **good collaborative environment** as a detail-oriented person who plans to constantly improve himself.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
