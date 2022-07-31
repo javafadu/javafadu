@@ -62,7 +62,7 @@
 - [x] **Html-Css**
 - [x] **BootStap**
 - [x] **JS**
-- [ ] **React** 
+- [x] **React** 
 - [x] **Front-End Project** </font>
     </td>
   </tr>
