@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
-<h3 align="center"> As a software developer, I worked on back-end and front-end development in various projects.  </h3>
+<h3 align="center"> As a software developer, I worked on various back-end and front-end development projects.   </h3>
 <table>
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
