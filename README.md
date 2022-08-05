@@ -110,6 +110,5 @@ Languages and Tools🛠:
 ---
       
 
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&layout=compact)](https://github.com/javafadu/github-readme-stats)
+  
 
