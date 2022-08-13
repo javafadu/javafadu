@@ -20,7 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feridun-ozcelik-52295b41)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/feridun-ozcelik-java
+)
 </p>
   
    <a href="https://github.com/javafadu">
