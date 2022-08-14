@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend Developer on Java**
 
-- 🌱 I’m currently learning **Frontend Developer on Java**
+- 🌱 I’m also learning **Frontend Developer - JavaScript, Bootstrap, React**
 
 - 👯 The **team environment** is the place that makes the greatest **contribution** to the development and sharing of experience.
 
