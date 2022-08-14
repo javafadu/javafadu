@@ -40,6 +40,7 @@
    
 
   <td valign="top">
+    <div>BOOTCAMP CONTENT</div>
 <font color="Red">
 
 - [x] **Java (Basic)** 
