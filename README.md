@@ -41,7 +41,7 @@
 
   <td valign="top">
 <font color="Red">
-  BOOTCAMP CONTENT
+- **BOOTCAMP CONTENT**
 - [x] **Java (Basic)** 
 - [x] **Lambda**
 - [x] **JavaScript**
