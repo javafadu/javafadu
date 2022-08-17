@@ -58,7 +58,7 @@
 - [x] **Advanced Java**
   - [x] *Enum*
   - [x] *Generic*
-  - [ ] *Debug*
+  - [x] *Debug*
   - [x] *Thread*
 - [x] **Back-End Project**
 - [x] **Html-Css**
