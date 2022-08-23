@@ -5,9 +5,11 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🔭 I’m currently working on **Backend Developer on Java**
+- 🔭 I’m currently working on **Back-end Developer (Java, Spring Boot)**
 
-- 🌱 I’m also learning **Frontend Developer - JavaScript, Bootstrap, React**
+- 🖼 I know :  **Back-end :Java, Spring Boot, PHP) | Front-end : HTML5, CSS, Bootstrap, JavaScript, PHP**
+
+- 🌱 I’m also learning **React, Phyton**
 
 - 👯 The **team environment** is the place that makes the greatest **contribution** to the development and sharing of experience.
 
