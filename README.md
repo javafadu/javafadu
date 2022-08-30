@@ -28,10 +28,10 @@
   
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonight&langs_count=8" width="49%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonight&langs_count=6" width="60%">
     
     
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="49%">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="60%">
       
 
 
