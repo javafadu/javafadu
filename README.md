@@ -26,7 +26,7 @@
 )
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonigh)](https://github.com/javafadu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonigh&langs_count=8)](https://github.com/javafadu/github-readme-stats)
 
 
     
