@@ -26,9 +26,7 @@
 )
 </p>
   
-   <a href="https://github.com/javafadu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&theme=tokyonight" width="70%">
-  </a>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=radical)
 
 
 
