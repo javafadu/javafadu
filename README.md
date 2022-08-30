@@ -26,13 +26,12 @@
 )
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/javafadu/github-readme-stats)
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonight&langs_count=8" width="70%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonight&langs_count=8" width="49%">
     
     
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="70%">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=javafadu&show_icons=true&theme=tokyonight&line_height=27" width="49%">
       
 
 
