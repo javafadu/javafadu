@@ -66,7 +66,6 @@
 - [x] **Html-Css-Sass**
 - [x] **BootStap**
 - [x] **JavaScript**
-- [x] **Webpack**
 - [x] **React** 
 - [x] **Front-End Project** </font>
     </td>
