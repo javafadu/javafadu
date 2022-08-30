@@ -26,7 +26,7 @@
 )
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&langs_count=8&theme=tokyonigh)](https://github.com/javafadu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javafadu&show_icons=true&theme=tokyonigh)](https://github.com/javafadu/github-readme-stats)
 
 
     
@@ -63,6 +63,7 @@
 - [x] **Html-Css-Sass**
 - [x] **BootStap**
 - [x] **JavaScript**
+- [x] **WebPack**
 - [x] **React** 
 - [x] **Front-End Project** </font>
     </td>
