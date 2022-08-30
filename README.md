@@ -63,7 +63,7 @@
   - [x] *Debug*
   - [x] *Thread*
 - [x] **Back-End Project**
-- [x] **Html-Css-Scss**
+- [x] **Html-Css-Sass**
 - [x] **BootStap**
 - [x] **JavaScript**
 - [x] **Webpack**
