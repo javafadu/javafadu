@@ -63,9 +63,10 @@
   - [x] *Debug*
   - [x] *Thread*
 - [x] **Back-End Project**
-- [x] **Html-Css**
+- [x] **Html-Css-Scss**
 - [x] **BootStap**
-- [x] **JS**
+- [x] **JavaScript**
+- [x] **Webpack**
 - [x] **React** 
 - [x] **Front-End Project** </font>
     </td>
