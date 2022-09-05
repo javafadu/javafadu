@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Back-end Developer (Java, Spring Boot)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql) | Front-end : HTML5, CSS, Bootstrap, JavaScript, PHP**
+- 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql | Front-end : HTML5, CSS, Bootstrap, JavaScript, PHP**
 
 - 🌱 I’m also learning **React, Phyton**
 
