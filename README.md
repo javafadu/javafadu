@@ -45,7 +45,6 @@
 
 - [x] **Java (Basic)** 
 - [x] **Lambda**
-- [x] **JavaScript**
 - [x] **MySQL**
 - [x] **JDBC**
 - [x] **Hibernate**
