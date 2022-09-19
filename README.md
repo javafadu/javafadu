@@ -51,9 +51,9 @@
 - [x] **J-Unit**
 - [x] **MongoDB**
 - [x] **API**
-- [x] **SpringMVC**
-- [x] **SpringBoot**
-- [x] **SpringSecurity**
+- [x] **Spring MVC**
+- [x] **Spring Boot**
+- [x] **Spring Security**
 - [x] **Advanced Java**
   - [x] *Enum*
   - [x] *Generic*
@@ -61,7 +61,7 @@
   - [x] *Thread*
 - [x] **Back-End Project**
 - [x] **Html-Css-Sass**
-- [x] **BootStap**
+- [x] **BootStrap**
 - [x] **JavaScript**
 - [x] **WebPack**
 - [x] **React** 
