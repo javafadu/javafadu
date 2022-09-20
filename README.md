@@ -65,7 +65,7 @@
 - [x] **JavaScript**
 - [x] **WebPack**
 - [x] **React** 
-- [x] **Context API / Redux Toolkit** 
+- [x] **Redux Toolkit** 
 - [x] **Front-End Project** </font>
     </td>
   </tr>
