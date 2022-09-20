@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Back-end Developer (Java, Spring Boot)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql | Front-end : HTML5, CSS, Bootstrap, JavaScript, PHP**
+- 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql | Front-end : HTML5, CSS, Bootstrap, JavaScript, React JS, PHP**
 
-- 🌱 I’m also learning **React, Phyton**
+- 🌱 I’m also learning **Phyton** 
 
 - 👯 The **team environment** is the place that makes the greatest **contribution** to the development and sharing of experience.
 
