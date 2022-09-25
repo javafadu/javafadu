@@ -5,19 +5,21 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🔭 I’m currently working on **Back-end Developer (Java, Spring Boot)**
+- 🔭 I’m currently working on **Full-stack Developer (Java, Spring Boot, JavaScript, ReactJs)**
 
 - 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql | Front-end : HTML5, CSS, Bootstrap, JavaScript, React JS, PHP**
 
-- 🌱 I’m also learning **Phyton** 
+- 🌱 I want to improve myself and specialize in back-end software development.
 
-- 👯 The **team environment** is the place that makes the greatest **contribution** to the development and sharing of experience.
+- ⚡ I am open to work in a **good collaborative environment** as a detail-oriented person who plans to constantly improve himself.
+
+- 👯 The team environment is the place that makes the greatest contribution to the development and sharing of experience.
 
 - 💬 Ask me about **Java, Hibernate, Spring Framework, MySQL, PHP, HTML / CSS, Microsoft Office (Excel, Word, Powerpoint)**
 
 - 📫 How to reach me **javafadu@gmail.com**
 
-- ⚡ I am open to work in a **good collaborative environment** as a detail-oriented person who plans to constantly improve himself.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
