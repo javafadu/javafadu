@@ -5,11 +5,11 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🔭 I’m currently working on **Full-stack Developer (Java, Spring Boot, JavaScript, ReactJs)**
+- 🔭 I’m currently working on **Full-stack Developer (Java, Spring Boot, JavaScript, ReactJS, JavaScript)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, PHP, MySql | Front-end : HTML5, CSS, Bootstrap, JavaScript, React JS, PHP**
+- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, PHP**
 
-- 🌱 I want to improve myself and specialize in back-end software development.
+- 🌱 I want to improve myself and specialize in software development.
 
 - ⚡ I am open to work in a **good collaborative environment** as a detail-oriented person who plans to constantly improve himself.
 
