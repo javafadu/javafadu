@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-stack Developer (Java, Spring Boot, JavaScript, ReactJS, JavaScript)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, PHP**
+- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
 - 🌱 I want to improve myself and specialize in software development.
 
