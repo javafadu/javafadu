@@ -68,7 +68,11 @@
 - [x] **WebPack**
 - [x] **React** 
 - [x] **Redux Toolkit** 
-- [x] **Front-End Project** </font>
+- [x] **Front-End Project** 
+- [x] **GIT & GITHUB** 
+- [x] **SDLC** 
+
+</font>
     </td>
   </tr>
   <tr>
