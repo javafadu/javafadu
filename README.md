@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td colspan="2">
-   https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif
+   <img src="https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif">
     </td>
   </tr>
   </table>
