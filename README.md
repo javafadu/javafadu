@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td colspan="2">
- ![snake gif](https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif)
     </td>
   </tr>
   </table>
