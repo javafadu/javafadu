@@ -5,9 +5,9 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🔭 I’m currently working on **Java Full-stack Developer (Java, Spring Boot, Spring Data, Spring Security, JavaScript, ReactJS, CSS/SCSS/SASS)**
+- 🔭 I’m currently working on **Full-Stack Developer (Java, Spring Boot, Spring Data, Spring Security, JavaScript, ReactJS, CSS/SCSS/SASS)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
+- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql, PostgreSQL | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
 - 🌱 I want to improve myself and specialize in software development.
 
@@ -15,7 +15,7 @@
 
 - 👯 The team environment is the place that makes the greatest contribution to the development and sharing of experience.
 
-- 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, PHP, HTML, CSS/SCSS, React JS, JavaScript**
+- 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, PostgreSQL, PHP, HTML, CSS/SCSS, React JS, JavaScript**
 
 - 📫 How to reach me **javafadu@gmail.com**
 
