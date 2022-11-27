@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, PostgreSQL, PHP, HTML, CSS/SCSS, React JS, JavaScript**
 
-- 📫 How to reach me **javafadu@gmail.com**
+- 📫 How to reach me **javafadu@gmail.com** 
 
 
 
