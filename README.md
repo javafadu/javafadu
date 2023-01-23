@@ -42,7 +42,7 @@
    
 
   <td valign="top">
-    <div><b>EXPERIENCE</b><br></div>
+    <div><b>BAKC-END</b><br></div>
 <font color="Red">
 
 - [x] **Java (Basic)** 
@@ -62,16 +62,18 @@
   - [x] *Debug*
   - [x] *Thread*
   <hr></hr>
-- [x]FRONT-END
+<div><b>BAKC-END</b><br></div>
 - [x] **Html-Css-Sass**
 - [x] **BootStrap**
 - [x] **JavaScript**
 - [x] **WebPack**
 - [x] **React** 
 - [x] **Redux Toolkit** 
-- [x] **Front-End Project** 
+  <hr></hr>
+<div><b>SDLC</b><br></div>
 - [x] **GIT & GITHUB** 
-- [x] **SDLC** 
+- [x] **CI/CD** 
+- [x] **Docker** 
 
 </font>
     </td>
