@@ -47,7 +47,7 @@
 
 - [x] **Java (Basic)** 
 - [x] **Lambda**
-- [x] **MySQL**
+- [x] **MySQL / PostgreSQL**
 - [x] **JDBC**
 - [x] **Hibernate**
 - [x] **J-Unit**
