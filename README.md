@@ -62,7 +62,8 @@
   - [x] *Debug*
   - [x] *Thread*
   <hr></hr>
-<div><b>BAKC-END</b><br></div>
+<div><b>FRONT-END</b><br></div>
+    
 - [x] **Html-Css-Sass**
 - [x] **BootStrap**
 - [x] **JavaScript**
@@ -71,6 +72,7 @@
 - [x] **Redux Toolkit** 
   <hr></hr>
 <div><b>SDLC</b><br></div>
+  
 - [x] **GIT & GITHUB** 
 - [x] **CI/CD** 
 - [x] **Docker** 
