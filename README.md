@@ -42,7 +42,7 @@
    
 
   <td valign="top">
-    <div><b>BOOTCAMP CONTENT</b><br></div>
+    <div><b>EXPERIENCE</b><br></div>
 <font color="Red">
 
 - [x] **Java (Basic)** 
@@ -61,7 +61,8 @@
   - [x] *Generic*
   - [x] *Debug*
   - [x] *Thread*
-- [x] **Back-End Project**
+  <hr></hr>
+- [x]FRONT-END
 - [x] **Html-Css-Sass**
 - [x] **BootStrap**
 - [x] **JavaScript**
