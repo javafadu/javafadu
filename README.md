@@ -76,6 +76,7 @@
 - [x] **GIT & GITHUB** 
 - [x] **CI/CD** 
 - [x] **Docker** 
+- [x] **Waterfall / Agile** 
 
 </font>
     </td>
