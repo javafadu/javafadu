@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Developer (Java, Spring Boot, Spring Data, Spring Security, JavaScript, ReactJS, CSS/SCSS/SASS)**
 
-- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql, PostgreSQL, Junit, Mockito, Docker, AWS RDS, EC2 | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
+- 🖼 I know :  **Back-end :Java, Spring Boot, Spring Security, MySql, PostgreSQL, Junit, Mockito, Docker, AWS RDS, AWS EC2, Jenkins | Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
 - 🌱 I want to improve myself and specialize in software development.
 
