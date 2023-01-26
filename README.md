@@ -5,7 +5,7 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🔭 I’m currently working on **Full-Stack Developer (Java, Spring Boot, Spring Data, Spring Security, JavaScript, ReactJS, CSS/SCSS/SASS)**
+- 🔭 I’m currently working as **Full-stack Software Developer**
 
 - 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, MySql, PostgreSQL, Junit, Mockito, Docker, AWS RDS, AWS EC2, Jenkins**
     
