@@ -47,7 +47,7 @@
     <div><b>BAKC-END</b><br></div>
 <font color="Red">
 
-- [x] **Java (Basic)** 
+- [x] **Java (Core)** 
 - [x] **Lambda**
 - [x] **MySQL / PostgreSQL**
 - [x] **JDBC**
