@@ -70,7 +70,7 @@
 - [x] **BootStrap**
 - [x] **JavaScript**
 - [x] **WebPack**
-- [x] **React** 
+- [x] **React JS** 
 - [x] **Redux Toolkit** 
   <hr></hr>
 <div><b>SDLC</b><br></div>
