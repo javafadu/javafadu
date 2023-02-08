@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Full-stack Software Developer**
 
-- 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, MySql, PostgreSQL, Junit, Mockito, Docker, AWS RDS, AWS EC2, Jenkins**
+- 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, MySql, PostgreSQL, Junit, Mockito, Docker, AWS RDS, AWS EC2**
     
 - 🖼 I know :  **Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
