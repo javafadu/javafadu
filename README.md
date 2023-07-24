@@ -86,6 +86,7 @@
   <tr>
     <td colspan="2">
    <img src="https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif">
+      ![Snake animation](substitute my username to yours in the link here)
     </td>
   </tr>
   </table>
