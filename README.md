@@ -85,9 +85,7 @@
   </tr>
   <tr>
     <td colspan="2">
-   <img src="https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif">
-    
-    </td>
+   <img src="https://github.com/javafadu/javafadu/blob/output/github-contribution-grid-snake.gif"></td>
   </tr>
   </table>
   
