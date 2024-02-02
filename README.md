@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
+<h1 align="center">I'm Feridun OZCELIK. Greeting from Canada</h1>
 <h3 align="center"> As a hoby, I worked on various back-end and front-end development projects.   </h3>
 <table>
   <tr><td  valign="top" width="80%">
