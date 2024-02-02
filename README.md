@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Feridun OZCELIK. Greeting from Istanbul</h1>
-<h3 align="center"> As a software developer, I worked on various back-end and front-end development projects.   </h3>
+<h3 align="center"> As a hoby, I worked on various back-end and front-end development projects.   </h3>
 <table>
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
-
-- 🔭 I’m currently working as a **Full-stack Software Developer** since 2020
 
 - 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, SQL (PL/pgSQL, PostgreSQL, MySQL), Junit, Mockito, Docker, AWS (EC22, RDS), Jenkins**
     
 - 🖼 I know :  **Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
-- 🌱 I want to improve myself and specialize in software development.
+- 🌱 I want to improve myself in software development.
 
-- ⚡ I am open to work in a **good collaborative environment** as a detail-oriented person who plans to constantly improve himself.
-
-- 👯 The team environment is the place that makes the greatest contribution to the development and sharing of experience.
+- 👯 The team environment is the place that makes the greatest contribution to the development and sharing of experience so I am open any good ideas and development trics.
 
 - 💬 Ask me about **Java, Spring Framework, Spring Boot, MySQL, PostgreSQL, PHP, HTML, CSS/SCSS, React JS, JavaScript**
 
