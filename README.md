@@ -71,7 +71,8 @@
 <div><b>SDLC</b><br></div>
   
 - [x] **GIT & GITHUB** 
-- [x] **CI/CD** 
+- [x] **CI/CD**
+- [x] **Jira / Confluence**
 - [x] **Docker** 
 - [x] **Waterfall / Agile** 
 
