@@ -74,7 +74,8 @@
 - [x] **CI/CD**
 - [x] **Jira / Confluence**
 - [x] **Docker** 
-- [x] **Waterfall / Agile** 
+- [x] **Waterfall / Agile**
+- [X] **TOSCA**
 
 </font>
     </td>
