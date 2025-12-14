@@ -5,7 +5,7 @@
   <tr><td  valign="top" width="80%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javafadu" alt="javafadu" /> </p>
 
-- 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, SQL (PL/pgSQL, PostgreSQL, MySQL), Junit, Mockito, Docker, AWS (EC22, RDS), AWS S3 **
+- 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, SQL (PL/pgSQL, PostgreSQL, MySQL), Junit, Mockito, Docker, AWS (EC22, RDS), AWS S3, Jenkins **
     
 - 🖼 I know :  **Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
 
