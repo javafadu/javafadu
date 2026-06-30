@@ -7,7 +7,7 @@
 
 - 🖼 I know :  **Back-end  :Java, Spring Boot, Spring Security, SQL (PL/pgSQL, PostgreSQL, MySQL), Junit, Mockito, Docker, AWS (EC22, RDS), AWS S3, Jenkins**
     
-- 🖼 I know :  **Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit**
+- 🖼 I know :  **Front-end : HTML5, CSS/SASS/SCSS, Bootstrap, JavaScript, React JS, Redux Toolkit, NodeJS**
 
 - 🌱 I want to improve myself in software development.
 
